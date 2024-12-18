@@ -27,7 +27,9 @@ QuizApp is a web-based application that presents users with a series of programm
 
 ## ⭐ Video Demonstration ⭐
 
-https://github.com/user-attachments/assets/fa1c5842-5453-45a0-b5e3-1062a4fc7f45
+https://github.com/user-attachments/assets/b8741750-4b77-4e29-b1b9-0aebcdeca460
+
+
 
 
 
