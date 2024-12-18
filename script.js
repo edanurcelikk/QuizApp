@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: "Which data structure uses a First In First Out (FIFO) approach?",
+        question: "Which data structure uses a First In First Out approach?",
         answers: [
             { text: "Stack", correct: false },
             { text: "Queue", correct: true },
